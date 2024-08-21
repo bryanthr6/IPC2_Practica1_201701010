@@ -149,7 +149,7 @@ def mostrar_reporte_compras():
         else:
             total_general += compra.total
     
-    print(f"\nTotal General: Q{total_general:.2f}")
+    print(f"Total General: Q{total_general:.2f}")
     print(" ")
 
 
